@@ -1,1 +1,1 @@
-# DFE-YOLOv8
+# LightDefectNet
